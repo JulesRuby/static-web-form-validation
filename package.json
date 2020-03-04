@@ -1,0 +1,19 @@
+{
+  "name": "cpnt262-static-webpage",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^12.16.1"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
